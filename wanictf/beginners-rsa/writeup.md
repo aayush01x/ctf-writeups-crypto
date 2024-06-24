@@ -1,3 +1,9 @@
+## beginners_rsa
+
+121pt, 530 solves, Beginner
+
+---
+
 We see that 5 small primes are getting generated $p,q,r,s,a$ and using them $n$ is found. $e$ is 65537.
 So,
 $$n = pqrsa$$
