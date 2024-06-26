@@ -17,4 +17,5 @@ msg = pad(FLAG, 16)
 enc = cipher.encrypt(msg)
 
 print(f'enc = {enc}') # bytes object
+
 print(f'flag_hash = {flag_hash}') # str object
