@@ -1,0 +1,1 @@
+First we need to generate Carmichael numbers and then find the corresponding power `k` for which 
